@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Dog");
         System.out.println("Github");
         System.out.println("CSA is cool");
+        System.out.println("Im on Replit");
     }
 }
